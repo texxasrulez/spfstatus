@@ -1,0 +1,34 @@
+{
+  "name": "texxasrulez/spfstatus",
+  "description": "Roundcube plugin that displays SPF status for messages",
+    "homepage": "https://github.com/texxasrulez/spfstatus",
+  "type": "roundcube-plugin",
+    "support": {
+    "issues": "https://github.com/texxasrulez/spfstatus/issues",
+    "source": "https://github.com/texxasrulez/spfstatus"
+  },
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Gene Hawkins (Nathan Osman - original author)"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "composer/installers": "^2.2"
+  },
+  "extra": {
+    "installer-name": "spfstatus"
+  },
+  "keywords": [
+    "roundcube",
+    "plugin",
+    "spf",
+    "email",
+    "status"
+  ],
+  "support": {
+    "source": "https://github.com/texxasrulez/roundcube-spf-status"
+  }
+}
